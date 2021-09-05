@@ -1,2 +1,2 @@
 # CJVR
- Claraa Jo VR Film
+ Clara Jo VR Film
